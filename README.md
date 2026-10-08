@@ -73,20 +73,19 @@ URL-Safety-Checker/
 ├── requirements.txt        # streamlit>=1.30
 ├── README.md
 ├── screenshots/
-│   ├── 01-url-input.png
-│   ├── 02-high-risk-result.png
-│   ├── 03-detected-reasons.png
-│   ├── 04-score-calculation.png
-│   └── 05-recommendations.png
+│   ├── url-input.png
+│   ├── high-risk-result.png
+│   ├── detected-reasons.png
+│   ├── score-calculation.png
+│   └── recommendations.png
 ├── docs/
 │   ├── PROJECT_PROPOSAL.md
 │   ├── PROJECT_REQUIREMENTS.md
 │   ├── SYSTEM_DESIGN.md
 │   ├── TEST_CASES.md
-│   └── DEMONSTRATION
+│   └── DEMONSTRATION.md
 ├── tests/
-│   └── test_url_checker.py
-└── .venv/                  # Local virtual environment (optional)
+    └── test_url_checker.py
 ```
 
 ## Installation
