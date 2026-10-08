@@ -24,7 +24,6 @@ then shows a risk score, a risk level, the reasons, and safe-browsing recommenda
 
 ## Technology Used
 Python 3.x, Streamlit, and the standard library (`re`, `urllib.parse`, `dataclasses`, `unittest`).
-No database, no paid APIs, no AI APIs, no machine learning, no web scraping.
 
 ## Project Structure
 ```
